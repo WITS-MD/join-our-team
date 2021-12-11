@@ -1,3 +1,5 @@
+![ImageMover](https://immd-public-logos.s3.us-east-2.amazonaws.com/immd-on-light.png | width=300)
+
 # Programming Challenge
 
 After authentication, AWS Cognito returns a JSON user object in a suboptimal, nested format with attributes that don't
@@ -18,10 +20,10 @@ API agnostic way.
 7. The returned object must include a `DisplayName` attribute. This should be `"Family, Given"`, their given name or
    their email address, depending on what is available.
 
-Refer to the [input](input.json) and [output](output.json) files for an example of what the method will receive and
-produce.
+Refer to the [input](input.json?raw=true) and [output](output.json?raw=true) files for an example of what the method
+will receive and produce.
 
-In either [Java](UserUtils.java) or [Node](UserUtils.js), write the **simplest**, **cleanest** and most **maintainable**
-code that meets the requirements identified above. Your submitted code can contain as many additional methods as
-necessary to achieve this goal (e.g. you are not limited to a single function). The order of the attributes in the
-returned object is irrelevant.
+In either [Java](UserUtils.java?raw=true) or [Node](UserUtils.js?raw=true), write the **simplest**, **cleanest** and
+most **maintainable** code that meets the requirements identified above. Your submitted code can contain as many
+additional methods as necessary to achieve this goal (e.g. you are not limited to a single function). The order of the
+attributes in the returned object is irrelevant.

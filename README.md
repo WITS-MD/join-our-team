@@ -1,4 +1,4 @@
-![ImageMover](https://immd-public-logos.s3.us-east-2.amazonaws.com/immd-on-light.png | width=300)
+<img src="https://immd-public-logos.s3.us-east-2.amazonaws.com/immd-on-light.png" width="325">
 
 # Programming Challenge
 

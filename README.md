@@ -1,6 +1,43 @@
 <img src="https://immd-public-logos.s3.us-east-2.amazonaws.com/immd-on-light.png" width="325">
 
-# Programming Challenge
+ImageMover has an immediate opening for a software developer that will help build our suite of patient-focused 
+healthcare products. This is a rare opportunity to join our passionate, highly-motivated team.
+
+## What you'll do:
+
+ * Write high-performance server code in Java and Node.
+ * Craft user interfaces in HTML, CSS, Javascript and Typescript.
+ * Design scalable, high-performance relational databases (MySQL) and document stores (MongoDB and DynamoDB).
+ * Provide and receive constructive feedback during peer code reviews.
+ * Collaborate with our customer success, quality assurance, product management and sales teams to ensure our 
+   products release on time and delight our customers.
+
+## You're the right cultural fit if you:
+
+ * Demonstrate sensibility, flexibility, initiative and ownership.
+ * Have the self-discipline required to contribute clean, simple and maintainable code.
+ * Recognize that asking questions is a strength, not a weakness.
+ * Love getting stuff done and having fun while doing it.
+
+## About ImageMover
+
+ImageMover is a healthy, fast-growing startup based in beautiful Madison, WI. We're remote friendly but if 
+you're in the area, we also have a conveniently-located office near the University of Wisconsin.
+
+* Flexible vacation policy encouraging a healthy work-life balance
+* Strong insurance benefits package
+* 401K with company matching
+* Generous holiday schedule including Election day and Juneteenth
+* Paid volunteer day each year
+* Employee stock options
+
+## How to Apply
+
+Skip the boring cover letter. Complete the exciting programming challenge detailed below instead! The ideal candidate should be able to complete it in under 20 minutes.
+
+Email your completed, functioning code (as a .zip file), your resume and a brief intro to [careers@imagemovermd.com](careers@imagemovermd.com).
+
+## Programming Challenge
 
 After authentication, AWS Cognito returns a JSON user object in a suboptimal, nested format with attributes that don't
 adhere to our variable naming conventions.
@@ -27,9 +64,5 @@ In either [Java](UserUtils.java?raw=true) or [Node](UserUtils.js?raw=true), writ
 most **maintainable** code that meets the requirements identified above. Your submitted code can contain as many
 additional methods as necessary to achieve this goal (e.g. you are not limited to a single function). The order of the
 attributes in the returned object is irrelevant.
-
-The ideal candidate should be able to complete this assignment in under 20 minutes.
-
-Email your completed, functioning code back to us.
 
 ### Good luck!

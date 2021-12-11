@@ -27,3 +27,9 @@ In either [Java](UserUtils.java?raw=true) or [Node](UserUtils.js?raw=true), writ
 most **maintainable** code that meets the requirements identified above. Your submitted code can contain as many
 additional methods as necessary to achieve this goal (e.g. you are not limited to a single function). The order of the
 attributes in the returned object is irrelevant.
+
+The ideal candidate should be able to complete this assignment in under 20 minutes.
+
+Email your completed, functioning code back to us.
+
+### Good luck!

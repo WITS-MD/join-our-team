@@ -1,0 +1,33 @@
+{
+  "Username": "00d23c55-51b4-49e3-a1ba-8e9b2685ab70",
+  "UserAttributes": [
+    {
+      "Name": "sub",
+      "Value": "00d23c55-51b4-49e3-a1ba-8e9b2685ab70"
+    },
+    {
+      "Name": "email_verified",
+      "Value": "true"
+    },
+    {
+      "Name": "email",
+      "Value": "sally@example.com"
+    },
+    {
+      "Name": "given_name",
+      "Value": "Sally"
+    },
+    {
+      "Name": "family_name",
+      "Value": "Slingshot"
+    },
+    {
+      "Name": "custom:tags",
+      "Value": "hockey,basketball,baseball"
+    }
+  ],
+  "UserCreateDate": "2021-04-13T15:50:42.802Z",
+  "UserLastModifiedDate": "2021-04-13T15:50:51.671Z",
+  "Enabled": true,
+  "UserStatus": "CONFIRMED"
+}

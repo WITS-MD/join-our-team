@@ -1,0 +1,17 @@
+{
+  "Username": "00d23c55-51b4-49e3-a1ba-8e9b2685ab70",
+  "EmailVerified": true,
+  "Email": "sally@example.com",
+  "DisplayName": "Slingshot, Sally",
+  "GivenName": "Sally",
+  "FamilyName": "Slingshot",
+  "Tags": [
+    "hockey",
+    "basketball",
+    "baseball"
+  ],
+  "UserCreateDate": "2021-04-13T15:50:42.802Z",
+  "UserLastModifiedDate": "2021-04-13T15:50:51.671Z",
+  "Enabled": true,
+  "UserStatus": "CONFIRMED"
+}

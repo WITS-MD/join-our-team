@@ -33,7 +33,7 @@ you're in the area, we also have a conveniently-located office near the Universi
 
 ## How to Apply
 
-Skip the boring cover letter. Complete the exciting programming challenge detailed below instead! The ideal candidate should be able to complete it in under 20 minutes.
+Skip the boring cover letter. Complete the exciting programming challenge below *instead!* The ideal candidate should be able to complete it in under 20 minutes.
 
 Email your completed, functioning code (as a .zip file), your resume and a brief intro to [careers@imagemovermd.com](careers@imagemovermd.com).
 

@@ -19,7 +19,7 @@ healthcare products. This is a rare opportunity to join our passionate, highly-m
  * Have the self-discipline required to contribute clean, simple and maintainable code.
  * Recognize that asking questions is a strength, not a weakness.
  * Love getting stuff done and having fun while doing it.
- * Willing to uphold our company mission and values through accountability, innovation, integrity, quality, and teamwork.
+ * Uphold our company mission and values through accountability, innovation, integrity, quality, and teamwork.
 
 ## About ImageMover
 

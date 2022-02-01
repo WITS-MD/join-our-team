@@ -11,6 +11,7 @@ healthcare products. This is a rare opportunity to join our passionate, highly-m
  * Provide and receive constructive feedback during peer code reviews.
  * Collaborate with our customer success, quality assurance, product management and sales teams to ensure our 
    products release on time and delight our customers.
+ * Support and comply with the company’s Quality Management System policies and procedures.
 
 ## You're the right cultural fit if you:
 
@@ -18,6 +19,7 @@ healthcare products. This is a rare opportunity to join our passionate, highly-m
  * Have the self-discipline required to contribute clean, simple and maintainable code.
  * Recognize that asking questions is a strength, not a weakness.
  * Love getting stuff done and having fun while doing it.
+ * Willing to uphold our company mission and values through accountability, innovation, integrity, quality, and teamwork.
 
 ## About ImageMover
 

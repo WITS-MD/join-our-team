@@ -1,30 +1,55 @@
 <img src="https://immd-public-logos.s3.us-east-2.amazonaws.com/immd-on-light.png" width="325">
 
-ImageMover has an immediate opening for a software developer that will help build our suite of patient-focused 
-healthcare products. This is a rare opportunity to join our passionate, highly-motivated team.
+ImageMover has an immediate opening for an entry-level software developer that will help build our suite of 
+patient-focused healthcare products. This is a rare opportunity to join our passionate, highly-motivated team.
+
+We’re looking for a skilled and motivated junior software engineer to join our team. Our ideal candidate will 
+have knowledge of software development processes and experience developing client-side software. Software 
+development includes IOS development, Android development, web development, and a significant fraction of time 
+developing customer workflows on all of these platforms using our proprietary workflow engine. If learning new 
+technologies and developing beautiful, meticulous code are among the talents that make you tick, we’d like to 
+hear from you.
 
 ## What you'll do:
 
- * Write high-performance server code in Java and Node.
- * Craft user interfaces in HTML, CSS, Javascript and Typescript.
- * Design scalable, high-performance relational databases (MySQL) and document stores (MongoDB and DynamoDB).
+In this role, you will be a key member of the Software Development team reporting to the [SVP of Engineering](https://github.com/Thaliant). 
+Your core responsibility will be to develop products that delight our customers as they deliver point of care 
+services to their patients. 
+
+Though we are looking for some specific skills – as noted in the list below – who you are is more important to 
+us than what you know.  Attitude, values and raw talent are as important as specific experience.  Non-negotiable 
+competencies include openness, team approach, and a strong focus on quality.  It is not necessary to have prior 
+experience in healthcare or a deep knowledge of point of care testing.  You will gain extensive knowledge in 
+both areas on the job.
+
+ * Develop customer workflows on IOS, Android, and Web.
+ * Craft user interfaces in HTML, CSS, Javascript.
+ * Enhance our mobile applications in Swift and Kotlin.
  * Provide and receive constructive feedback during peer code reviews.
- * Collaborate with our customer success, quality assurance, product management and sales teams to ensure our 
+ * Collaborate with our customer success, quality assurance, product management and sales teams to ensure our
    products release on time and delight our customers.
  * Support and comply with the company’s Quality Management System policies and procedures.
 
 ## You're the right cultural fit if you:
 
- * Demonstrate sensibility, flexibility, initiative and ownership.
- * Have the self-discipline required to contribute clean, simple and maintainable code.
- * Recognize that asking questions is a strength, not a weakness.
- * Love getting stuff done and having fun while doing it.
- * Uphold our company mission and values through accountability, innovation, integrity, quality, and teamwork.
+ * Have excellent problem-solving and communication skills
+ * Are a self-starter
+ * Have the ability to resolve issues timely and accurately
+ * Have effective time management to include establishing priorities and meeting deadlines
+ * Exhibit continuous improvement skills to make processes more efficient
+ * Are detail oriented
+ * Uphold the company mission and values through accountability, innovation, integrity, quality, and teamwork
+ * Have the bility to work in fast-paced environment with demonstrated ability to manage multiple competing priorities
 
 ## About ImageMover
 
 ImageMover is a healthy, fast-growing startup based in beautiful Madison, WI. We're remote friendly but if 
 you're in the area, we also have a conveniently-located office near the University of Wisconsin.
+
+With our [Workflow Services](https://www.workflowservices.com/) platform, we’re helping to drive the evolution of medical care delivery in retail 
+and community pharmacies.  Our platform allows for rapid iteration of digital workflows to support the specific 
+needs of a customer.  This team member has the opportunity to support our growth as we add new customers and 
+drive evolution of the system as we always look for more scalability and efficiency.
 
 * Flexible vacation policy encouraging a healthy work-life balance
 * Strong insurance benefits package
@@ -35,9 +60,12 @@ you're in the area, we also have a conveniently-located office near the Universi
 
 ## How to Apply
 
-Skip the boring cover letter. Complete the exciting programming challenge below *instead!* The ideal candidate should be able to complete it in under 20 minutes.
+Skip the boring cover letter. Complete the exciting programming challenge below *instead!* The ideal candidate should 
+be able to complete it in under 20 minutes.
 
-Email your completed, functioning code (as a .zip file), your resume and a brief intro to [careers@imagemovermd.com](careers@imagemovermd.com).
+Email your completed, functioning code (as a .zip file), your resume and a brief intro to 
+[careers@imagemovermd.com](careers@imagemovermd.com). Having trouble getting it to us? Send us an email and we’ll give 
+you a secure link to upload everything. 
 
 ## Programming Challenge
 
